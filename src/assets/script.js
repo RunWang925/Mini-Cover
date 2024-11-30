@@ -13,7 +13,7 @@ export const state = {
     watermark: "@野猪佩奇弟弟",
     textSize: 200,
     squareSize: 300,
-    text: '野猪佩奇弟弟',
+    text: '野猪佩奇',
     bgBlur: 3,
     iconBackground: false,
     iconBorder: false,
