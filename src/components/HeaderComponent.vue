@@ -1,5 +1,5 @@
 <template>
     <header>
-        <h1>Mini-Cover</h1>
+        <h1>博客封面Cover</h1>
     </header>
 </template>
